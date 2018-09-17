@@ -1,0 +1,26 @@
+_repo: Der-ewige-Buddho-Ein-Tempelschriftwerk-in-vier-Unterweisungen_52015
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ziegler, Leopold
+    birthdate: 1881
+    deathdate: 1958
+    gutenberg_agent_id: '46632'
+    url: http://www.gutenberg.org/2009/agents/46632
+description: ''
+gutenberg_issued: '2016-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52015'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Buddhism'
+- GITenberg
+tableOfContents: Einführung -- Buddho der Protestant -- Buddho der Erlebende -- Buddho
+  der Wissende -- Buddho der Öst-westliche.
+title: 'Der ewige Buddho: Ein Tempelschriftwerk in vier Unterweisungen'
+url: http://www.gutenberg.org/ebooks/52015
